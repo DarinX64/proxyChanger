@@ -1,0 +1,5 @@
+C:\Users\Andrey\source\repos\ProxyChangerActivities\ProxyChangerActivities\bin\Release\ProxyChangerActivities.dll
+C:\Users\Andrey\source\repos\ProxyChangerActivities\ProxyChangerActivities\bin\Release\ProxyChangerActivities.pdb
+C:\Users\Andrey\source\repos\ProxyChangerActivities\ProxyChangerActivities\obj\Release\ProxyChangerActivities.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\ProxyChangerActivities\ProxyChangerActivities\obj\Release\ProxyChangerActivities.dll
+C:\Users\Andrey\source\repos\ProxyChangerActivities\ProxyChangerActivities\obj\Release\ProxyChangerActivities.pdb
